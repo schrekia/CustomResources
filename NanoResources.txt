@@ -13,6 +13,10 @@
 # ---------------------------------------------------------------------------- #
 
 
+empty-json application/json
+{}
+
+
 nano-tiny-noopvast-2.0 text/xml
 <VAST version="2.0"></VAST>
 
